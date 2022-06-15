@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/scandiweb-test-work/static/css/main.7acde5fb.css",
+    "main.js": "/scandiweb-test-work/static/js/main.14263516.js",
+    "static/css/438.0e302c31.chunk.css": "/scandiweb-test-work/static/css/438.0e302c31.chunk.css",
+    "static/js/438.84206d1c.chunk.js": "/scandiweb-test-work/static/js/438.84206d1c.chunk.js",
+    "static/css/785.32a814dc.chunk.css": "/scandiweb-test-work/static/css/785.32a814dc.chunk.css",
+    "static/js/785.929bcc75.chunk.js": "/scandiweb-test-work/static/js/785.929bcc75.chunk.js",
+    "static/css/806.48ab1395.chunk.css": "/scandiweb-test-work/static/css/806.48ab1395.chunk.css",
+    "static/js/806.ac79d57f.chunk.js": "/scandiweb-test-work/static/js/806.ac79d57f.chunk.js",
+    "index.html": "/scandiweb-test-work/index.html",
+    "main.7acde5fb.css.map": "/scandiweb-test-work/static/css/main.7acde5fb.css.map",
+    "main.14263516.js.map": "/scandiweb-test-work/static/js/main.14263516.js.map",
+    "438.0e302c31.chunk.css.map": "/scandiweb-test-work/static/css/438.0e302c31.chunk.css.map",
+    "438.84206d1c.chunk.js.map": "/scandiweb-test-work/static/js/438.84206d1c.chunk.js.map",
+    "785.32a814dc.chunk.css.map": "/scandiweb-test-work/static/css/785.32a814dc.chunk.css.map",
+    "785.929bcc75.chunk.js.map": "/scandiweb-test-work/static/js/785.929bcc75.chunk.js.map",
+    "806.48ab1395.chunk.css.map": "/scandiweb-test-work/static/css/806.48ab1395.chunk.css.map",
+    "806.ac79d57f.chunk.js.map": "/scandiweb-test-work/static/js/806.ac79d57f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acde5fb.css",
+    "static/js/main.14263516.js"
+  ]
+}

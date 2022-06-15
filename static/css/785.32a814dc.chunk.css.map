@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/785.32a814dc.chunk.css","mappings":"AAAA,oBACI,WACJ,CAEA,qBACI,YAAa,CACb,qBAAsB,CACtB,kBACJ","sources":["views/styles.module.css"],"sourcesContent":[".form {\r\n    width: 320px;\r\n}\r\n\r\n.label {\r\n    display: flex;\r\n    flex-direction: column;\r\n    margin-bottom: 15px;\r\n}"],"names":[],"sourceRoot":""}
